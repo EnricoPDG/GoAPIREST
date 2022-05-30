@@ -1,2 +1,3 @@
-# GoAPIREST
-Learning how to create an API REST with Go
+# Go API REST
+
+## Learning how to create an API REST with Go
